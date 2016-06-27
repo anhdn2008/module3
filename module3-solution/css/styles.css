@@ -1,0 +1,15 @@
+.navbar-default .navbar-nav li {
+	text-align: center;
+}
+
+#navbar-collapse-1 {
+	/*background: #0000ff*/
+}
+
+.container>.row>div {
+	height: 700px;
+}
+
+#container-1 {
+	position: relative;
+}
